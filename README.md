@@ -4,10 +4,10 @@
 
 ## How to use
 
-1- Install the library:
+1- Install the library and `cropperjs` dependency:
 
 ```bash
-$ npm install angular-cropperjs --save
+$ npm install angular-cropperjs cropperjs --save
 ```
 
 2- Import and load `AngularCropperjsModule` in the module you want to use, for example `AppModule`:
